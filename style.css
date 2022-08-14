@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+     
+      body {
+      	font-family: 'Titillium Web', sans-serif;
+        
+      }
+      h2 {
+        font-family: 'Roboto Slab', serif;
+      }
+      .deskripsi {
+        font-family: 'Roboto Slab', serif;
+      }
+      .my-custom-scrollbar {
+        position: relative;
+        height: 22rem;
+        overflow: auto;
+      }
+      .table-wrapper-scroll-y {
+        display: block;
+      }
+      
